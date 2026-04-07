@@ -1882,7 +1882,8 @@
       "slack.com",
       "atlassian.com",
       "shopify.com",
-      "githubusercontent.com"
+      "githubusercontent.com",
+      "azurestaticapps.net"
     ],
     "severity": "high",
     "log_detections": true
